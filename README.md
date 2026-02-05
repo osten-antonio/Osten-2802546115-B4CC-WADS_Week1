@@ -10,6 +10,7 @@ Web development is the engine behind the digital experiences we use daily, funda
 Behind the scenes lies the backend, the server-side infrastructure that handles the application's logic. This layer processes requests, manages user authentication, and communicates with the database, the storage system where information is kept. Whether using structured SQL tables or flexible NoSQL collections, the backend ensures that when a user interacts with the site, the correct data is retrieved and securely delivered. Together, these components form the "full stack," transforming static code into dynamic, functional applications.
 
 Web development unites the frontend (visual interface) and the backend (server logic and data storage). Together, these layers form the "fullstack," transforming static code into dynamic applications.
+
 # Security in web
 Web security is the vigilant practice of protecting applications and their users from cyber threats and data breaches. At its core, it focuses on preserving the Confidentiality, Integrity, and Availability (CIA) of information, ensuring that systems remain reliable and private.
 
